@@ -1,4 +1,4 @@
-""" TODO: Put your header comment here """
+""" This program will create a video of art with specified resolution for a randomly generated function.  """
 
 import random
 from math import *
